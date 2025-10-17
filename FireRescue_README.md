@@ -56,7 +56,7 @@ FireRescueSimulation/
 This starts the environment and sends world updates to Unity.
 
 ```bash
-cd fire_rescue_env
+cd fire_rescue_env_cli_v3
 python -m server.websocket_server
 ```
 
